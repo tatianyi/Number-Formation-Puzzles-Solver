@@ -1,4 +1,10 @@
-#include "bits/stdc++.h"
+#include <algorithm>
+#include <array>
+#include <iostream>
+#include <ranges>
+#include <set>
+#include <string>
+#include <vector>
 
 //const std::string ops{ "+-*/" };
 
